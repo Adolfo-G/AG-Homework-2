@@ -43,7 +43,7 @@ li a {
     color: rgb(216,15,15);
 }
 
-/* main */
+/* about me */
 
 h1 {
     font-size: 40px;
@@ -72,6 +72,7 @@ p {
     padding: 30px 0px 20px 310px;
 }
 
+/* works */
 .work-section {
     width: 85%;
 }
